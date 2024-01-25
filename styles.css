@@ -1,0 +1,41 @@
+h1{ 
+    color: blueviolet;
+    font-size: 100%;
+    text-align: center;
+}
+#contenedor{
+    
+    padding: 2%;
+    background-color: #1d1a2f;
+    height: 800px;
+    width: 800px ;
+}
+img{
+    height: 200px;
+    width: 200px;
+    padding: 2%;
+}
+#row1{
+    padding:1%;
+display: flex;
+justify-content: center;
+background-color: #965fd4;
+}
+#row2{
+    border: 1px;
+    padding:1%;
+    display: flex;
+    justify-content: center;
+    background-color:#8bd450;
+
+}
+#row3{
+  
+    display: flex;
+    justify-content: center;
+    background-color: #965fd4;
+
+}
+a{
+ text-align: center;
+}
